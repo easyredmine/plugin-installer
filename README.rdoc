@@ -1,3 +1,0 @@
-= redmine_installer
-
-Description goes here
