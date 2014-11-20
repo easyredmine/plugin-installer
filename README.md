@@ -1,4 +1,4 @@
-Plugin into Redmine to easily handle installing and upgrading Redmine.
+#Plugin into Redmine to easily handle installing and upgrading Redmine.
 
 This Redmine plugin acts as wrapper above gem [https://github.com/easyredmine/redmine-installer].
 
