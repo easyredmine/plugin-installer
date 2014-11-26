@@ -2,6 +2,6 @@
 
 This Redmine plugin acts as wrapper above gem [https://github.com/easyredmine/redmine-installer].
 
-Just copy this plugin into [redmine]/plugins/redmine_installer folder and run "bandle install"
+Just copy this plugin into [redmine]/plugins/redmine_installer folder and run "bundle install"
 
 See https://github.com/easyredmine/redmine-installer
