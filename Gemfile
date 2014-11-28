@@ -1,1 +1,1 @@
-gem 'redmine-installer'
+gem 'redmine-installer', require: false
